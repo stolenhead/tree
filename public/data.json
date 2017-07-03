@@ -1,0 +1,37 @@
+{
+  "usuario":[
+    {
+      "id":"1",
+      "numero_gestas": "3",
+      "abortos":[0],
+      "bebes": [
+        {
+          "id":"bebe1",
+          "vaginal": "si",
+          "muerto":[0],
+          "nacido": [
+            {
+              "vive":"si",
+              "vive_1semana":"si",
+              "vive_despues_1semana":"no"
+            }
+          ],
+          "cesareas": [0]
+        },
+        {
+          "id":"bebe2",
+          "vaginal": "si",
+          "muerto":[0],
+          "nacido":[
+            {
+              "vive":"si",
+              "vive_1semana":"si",
+              "vive_despues_1semana":"no"
+            }
+          ], 
+         "cesareas": [0]
+        }
+      ]
+    }
+  ] 
+}

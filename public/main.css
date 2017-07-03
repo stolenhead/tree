@@ -1,0 +1,23 @@
+html{
+    font: 10px sans-serif;
+}
+.node{
+    cursor: pointer;
+}
+.div-arbol{
+	
+	text-align: center;
+	border: 1px solid black;
+	font-size: 2em;
+}
+.link{
+    fill: none;
+    stroke: lightgray;
+    stroke-width: 1.5px;
+}
+.inline{
+    width: 4%;
+    display: inline-flex;
+    height:3em;
+    border: 1px solid black;
+} 

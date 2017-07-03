@@ -1,0 +1,53 @@
+{
+	"gestantes":[
+		{
+			"id":"gestante_1",
+			"tipo":"multiple",
+			"num_gestas":"2",
+			"fetos":[
+				{
+					"id":"feto_1",
+					"terminacion":"vaginal",
+					"edad_gestional":"3",
+					"estado":"vivo",
+					"sexo":"F",
+					"aborto":"completado",
+					"vivo":"true",
+					"muerto":"false",
+					"lugar":"hospitalario",
+					"fecha":"10/08/92",
+					"peso":"400gr",
+					"lactancia":"6 meses"
+				},
+				{
+					"id":"feto_2",
+					"terminacion":"vaginal",
+					"edad_gestional":"2",
+					"estado":"vivo",
+					"sexo":"M",
+					"aborto":"completado",
+					"vivo":"true",
+					"muerto":"false",
+					"lugar":"hospitalario",
+					"fecha":"10/08/94",
+					"peso":"700gr",
+					"lactancia":"6 meses"
+				},
+				{
+					"id":"feto_3",
+					"terminacion":"cesarea",
+					"edad_gestional":"4",
+					"estado":"vivo",
+					"sexo":"M",
+					"aborto":"completado",
+					"vivo":"true",
+					"muerto":"false",
+					"lugar":"domiciliario",
+					"fecha":"10/08/94",
+					"peso":"300gr",
+					"lactancia":"5 meses"
+				}		
+			]
+		}	
+	]
+}
